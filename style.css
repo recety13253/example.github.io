@@ -1,0 +1,126 @@
+#center{
+  width: 110px;
+  height: 110px;
+  background: yellow;
+  position: absolute;
+  left: 695px;
+  top: 295px;
+  border-radius: 50%;
+  z-index: 2;
+  border: 2px solid;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+#list1{
+  width: 100px;
+  height: 50px;
+  background: white;
+  border: 2px solid;
+  position: absolute;
+  left: 700px;
+  top: 220px;
+  border-radius: 50%;
+  transform: rotate(90deg);
+  display: flex;
+  justify-content: center;
+  align-items:center;
+
+}
+#list2{
+  width: 100px;
+  height: 50px;
+  background: white;
+  border: 2px solid;
+  position: absolute;
+  left: 773px;
+  top: 248px;
+  border-radius: 50%;
+  transform: rotate(135deg);
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+#list3{
+  width: 100px;
+  height: 50px;
+  background: white;
+  border: 2px solid;
+  position: absolute;
+  left: 800px;
+  top: 320px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+#list4{
+  width: 100px;
+  height: 50px;
+  background: white;
+  border: 2px solid;
+  position: absolute;
+  left: 780px;
+  top: 390px;
+  border-radius: 50%;
+  transform: rotate(220deg);
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+#list5{
+  width: 100px;
+  height: 50px;
+  background: white;
+  border: 2px solid;
+  position: absolute;
+  left: 700px;
+  top: 425px;
+  border-radius: 50%;
+  transform: rotate(90deg);
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+#list6{
+  width: 100px;
+  height: 50px;
+  background: white;
+  border: 2px solid;
+  position: absolute;
+  left: 622px;
+  top: 398px;
+  border-radius: 50%;
+  transform: rotate(135deg);
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+#list7{
+  width: 100px;
+  height: 50px;
+  background: white;
+  border: 2px solid;
+  position: absolute;
+  left: 600px;
+  top: 320px;
+  border-radius: 50%;
+  transform: rotate(0deg);
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+#list8{
+  width: 100px;
+  height: 50px;
+  background: white;
+  border: 2px solid;
+  position: absolute;
+  left: 622px;
+  top: 252px;
+  border-radius: 50%;
+  transform: rotate(220deg);
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
